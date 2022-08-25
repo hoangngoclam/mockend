@@ -1,6 +1,5 @@
 {
   "Todo": {
-    "int": { "int": { "min": 0, "max": 1000000 } },
     "title": {
       "loremWords": {
         "minLength": 5,
