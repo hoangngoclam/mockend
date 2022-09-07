@@ -2,8 +2,8 @@
   "Todo": {
     "title": {
       "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
+        "minLength": 10,
+        "maxLength": 30
       }
     },
     "is_completed": { "boolean": {} },
